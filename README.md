@@ -4,7 +4,6 @@
 * [Technologies](technologies)
 * [Setup](setup)
 * [Features](features)
-* [Status](status)
 
 ## Introduction
 The initial motivation for this project was to attempt to implement the Simulated Annealing algorithm to a
